@@ -10,6 +10,8 @@ Las consignas completas de este proyecto se encuentran en https://github.com/rom
 
 Luego de explorar la pagina CoinGecko y los endpoints de su API se decidió tomar una pequeña base de datos de 10 cryptomonedas para explicar los términos frecuentemente utilizados en el mundo de las criptomonedas, como lo son capitalización de mercado, precios históricos mínimo y máximo, volumen de transaccionnes, volumnen en circulación.
 
+La obtención de las bases de datos se documenta en el archivo 1_etl.ipynb y el análisis de las mismas en el archivo 2_eda.ipynb
+
 
 # Herramientas y técnologias utilizadas
 * Python
